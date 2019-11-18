@@ -1,0 +1,31 @@
+<package>
+	<id>com.dgh0st.whitelistswitcher</id>
+	<name>WhitelistSwitcherClose</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>10.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>applist</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Create a whitelist of applications that can never be closed from the application switcher. it also has the option to relaunch and launch application when you try to close it.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>../../../img/WhitelistSwitcher.gif</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Added iOS 9 support</change>
+	</changelog>
+	<links>
+	</links>
+</package>

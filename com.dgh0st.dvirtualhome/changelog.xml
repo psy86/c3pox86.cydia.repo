@@ -1,0 +1,53 @@
+<changelog>
+	<changes>
+		<version>0.0.6-1</version>
+		<change>Fix actions being performed during Touch ID Authentication</change>
+	</changes>
+	<changes>
+		<version>0.0.6</version>
+		<change>Added option to waste battery (wake up device using tap)</change>
+		<change>Added option to open last app as one of the actions</change>
+		<change>Added option to lock rotations</change>
+		<change>Added option to rotate to portrait orientation and lock</change>
+	</changes>
+	<changes>
+		<version>0.0.5</version>
+		<change>Fix long hold being invoked after tap and hold fails, so long hold should be faster now</change>
+	</changes>
+	<changes>
+		<version>0.0.4</version>
+		<change>Fix memory leak</change>
+		<change>Slightly improve performance by removing uncessary instructions</change>
+	</changes>
+	<changes>
+		<version>0.0.3-2</version>
+		<change>Fix crashes on iOS 11</change>
+	</changes>
+	<changes>
+		<version>0.0.3-1</version>
+		<change>Fix taking screenshot on iOS 11</change>
+	</changes>
+	<changes>
+		<version>0.0.3</version>
+		<change>Slight optomizations to gesture creation</change>
+		<change>Fix activating switcher on iOS 10.3.3+</change>
+		<change>Made Notification Center as a action not crash on iOS 11 (don't use NC as a Action, it does nothing)</change>
+	</changes>
+	<changes>
+		<version>0.0.2</version>
+		<change>Added Screenshot, Control Center and Notification Center as actions</change>
+	</changes>
+	<changes>
+		<version>0.0.1-2</version>
+		<change>Fixed Siri not being dismissed when performing same action again</change>
+		<change>Changed donate link to paypal.me link</change>
+	</changes>
+	<changes>
+		<version>0.0.1-1</version>
+		<change>Added preferences</change>
+	</changes>
+	<changes>
+		<version>0.0.1</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>

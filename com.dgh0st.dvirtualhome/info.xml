@@ -1,0 +1,30 @@
+<package>
+	<id>com.dgh0st.dvirtualhome</id>
+	<name>DVirtualHome</name>
+	<version>0.0.6-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>My attempt at making virtual home iOS 10 - 12 compatible (Tested on iOS 10 only).</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>../../../img/DVirtualHome.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fix actions being performed during Touch ID Authentication</change>
+	</changelog>
+	<links>
+	</links>
+</package>
