@@ -1,1 +1,1 @@
-# c3pox86.cydia.repo
+# c3pox86 Beta repo für cydia.
