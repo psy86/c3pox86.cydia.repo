@@ -1,0 +1,8 @@
+Origin: c3pox86 Cydia Repo
+Label: c3pox86
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description:  German Cydia Content
